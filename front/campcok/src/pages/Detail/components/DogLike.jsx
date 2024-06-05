@@ -51,7 +51,7 @@ const DogLike = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    //localStorage.removeItem("serverDog");
+    localStorage.removeItem("serverDog");
     const storedData = JSON.parse(localStorage.getItem("serverDog"));
     console.log("저장된 ", storedData);
     if (Array.isArray(storedData)) {

@@ -52,6 +52,7 @@ const initState = {
   operDeCl: "", //평일+주말
   operPdCl: "", //봄,여름,가을
   posblFcltyCl: "",
+  contentId:"",
 };
 
 const ReadComponent2 = ({ tno }) => {
