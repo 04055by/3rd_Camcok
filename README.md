@@ -1,4 +1,4 @@
-
+IntelliJ IDEA, Visual Studio Code, Java(JDK17), JavaScript, React, Node.js, Spring Boot, MySQL, Gradle, Axios
 
 
 
